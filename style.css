@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    height: 700px;
+    border: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#cliker {
+    font-size: 60px;
+    margin: 0 auto;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+     -khtml-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none; 
+            user-select: none;
+}
